@@ -1,0 +1,7 @@
+data/*
+coding_cadre_venv/*
+logs/*
+*/__pycache__/*
+challenge359/challenge359.duckdb
+challenge359/tmp9q3xbhmg/*
+challenge359/quicksol.py
